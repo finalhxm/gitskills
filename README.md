@@ -1,4 +1,2 @@
 # gitskills
-hxm
-hxm1
 
