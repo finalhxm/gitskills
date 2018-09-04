@@ -1,4 +1,0 @@
-1.dev
-2.bug
-
-3.test pull
