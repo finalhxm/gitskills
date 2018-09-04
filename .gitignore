@@ -1,2 +1,4 @@
-#test:
-*.txt
+# Package Files #
+*.jar
+*.war
+*.md
